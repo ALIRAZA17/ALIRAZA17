@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Raza Dar</h1>
 <h3 align="center">A passionate developer from Pakistan trying to learn new things</h3>
 
-- 🔭 I’m currently working on [GDSC Project](https://github.com/ALIRAZA17/MyLoginPage)
+- 🔭 I’m currently working on [FICS Project](https://github.com/ALIRAZA17/upmeal_app)
 
 - 🌱 I’m currently learning **Flutter from Udemy and Other different resources such as Udacity**
 
