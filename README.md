@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Raza Dar</h1>
 <h3 align="center">A passionate developer from Pakistan trying to learn new things</h3>
-<img width="400" alt="Coding" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrcazX3XQi76h7VztxdmvcTaXtUAdxv3BvSQRPV_4LR7QMFFkCQKqcO4ORlSdy8hb5-c&usqp=CAU" alt="">
 
 - 🔭 I’m currently working on [GDSC Project](https://github.com/ALIRAZA17/MyLoginPage)
 
