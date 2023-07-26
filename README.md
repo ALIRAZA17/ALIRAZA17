@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Raza Dar</h1>
 
-- 🔭 I’m currently working on [FICS Project](https://github.com/ALIRAZA17/upmeal_app)
+- 🔭 I’m currently working on different web and app projects.
 
-- 🌱 I’m currently learning **Flutter from Udemy and Other different resources such as Udacity**
+- 🌱 I have a deep understanding of MERN Stack as well as Flutter covering overall aspects of web and app development. Currently I'm learning ios app development using Swift.
 
 - 👯 I’m looking to collaborate on **Flutter and Related Projects**
 
