@@ -2,13 +2,11 @@
 
 - 🔭 I’m currently working on different web and app projects.
 
-- 🌱 I have a deep understanding of MERN Stack as well as Flutter covering overall aspects of web and app development. Currently I'm learning ios app development using Swift.
-
-- 👯 I’m looking to collaborate on **Flutter and Related Projects**
+- 🌱 I have a deep understanding of MERN Stack as well as Flutter covering overall aspects of web and app development. Currently I'm learning DevOps and related content.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ALIRAZA17](https://github.com/ALIRAZA17)
 
-- 💬 Ask me about **flutter,react,node and java**
+- 📄 My Portfolio [https://alirazadar.netlify.app/](https://alirazadar.netlify.app/)
 
 - 📫 How to reach me **ialidar2001@gmail.com**
 
