@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ALIRAZA17](https://github.com/ALIRAZA17)
 
-- 📄 My Portfolio [https://alirazadar.netlify.app/](https://alirazadar.netlify.app/)
+- 🤘 My Portfolio [https://alirazadar.netlify.app/](https://alirazadar.netlify.app/)
 
 - 📫 How to reach me **ialidar2001@gmail.com**
 
