@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali Raza Dar</h1>
+<h1 align="center">Hi 👋, I'm Ali Raza </h1>
 
 - 🔭 I’m currently working on different web and app projects.
 
