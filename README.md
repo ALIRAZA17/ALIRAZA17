@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Raza </h1>
 
-- 🔭 I’m currently working on different Web and App projects.
+- 🔭 I’m currently pursuing my Masters from Germany and also working on different Web and App projects.
 
 - 🌱 I have a deep understanding of MERN Stack as well as Flutter covering overall aspects of web and app development. Currently I'm learning DevOps and related content.
 
